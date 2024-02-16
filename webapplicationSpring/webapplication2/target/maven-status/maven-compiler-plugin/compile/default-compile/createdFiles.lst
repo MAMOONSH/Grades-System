@@ -1,0 +1,7 @@
+com\mammon\gradingsystem\Student.class
+com\mammon\gradingsystem\SecurityConfiguration.class
+com\mammon\gradingsystem\ExceptionController.class
+com\mammon\gradingsystem\StudentCourse.class
+com\mammon\gradingsystem\LogoutController.class
+com\mammon\gradingsystem\StudentGradesController.class
+com\mammon\gradingsystem\WelcomeStudentController.class

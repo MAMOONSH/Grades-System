@@ -1,0 +1,4 @@
+<lable align="right"><a href="/logout">Logout</a></lable>
+<br>
+welcome ${student.name}
+<br>
